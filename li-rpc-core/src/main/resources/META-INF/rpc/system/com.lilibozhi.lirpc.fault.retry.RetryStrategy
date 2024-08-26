@@ -1,0 +1,2 @@
+no=com.lilibozhi.lirpc.fault.retry.NoRetryStrategy
+fixedInterval=com.lilibozhi.lirpc.fault.retry.FixedIntervalRetryStrategy

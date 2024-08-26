@@ -1,0 +1,4 @@
+failBack=com.lilibozhi.lirpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.lilibozhi.lirpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.lilibozhi.lirpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.lilibozhi.lirpc.fault.tolerant.FailSafeTolerantStrategy
